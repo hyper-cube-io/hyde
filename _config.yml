@@ -26,6 +26,12 @@ authors:
     display_name: Seungsoo
     github: hanseungsoo
     email: hss0417@gmail.com
+  kwSeo:
+    name: Kyeongwon Seo
+    display_name: kwSeo
+    email: tkruddnjs1@naver.com
+    web: http://kwSeo.github.io
+    github: kwSeo
 
 paginate:         5
 
