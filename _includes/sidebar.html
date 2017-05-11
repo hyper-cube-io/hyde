@@ -27,6 +27,7 @@
         {% endif %}
       {% endfor %}
 
+      <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %} github" href="{{ site.github.repo }}" target="_blank">github</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

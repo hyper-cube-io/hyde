@@ -18,6 +18,9 @@ html {
 .sidebar .sidebar-about h1 {
     font-size: 2.25rem;
 }
+.sidebar .sidebar-about p.lead {
+    font-size: 0.69rem;
+}
 
 .post-date .author {
     color: #303030;
@@ -32,4 +35,8 @@ html {
 img.gravatar {
     width: 30px;
     height: 30px;
+}
+
+nav.sidebar-nav a.sidebar-nav-item.github {
+    font-size: small;
 }
