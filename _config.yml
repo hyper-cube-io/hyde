@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            hyper-cube.io
-tagline:          'A Jekyll theme'
-description:      'desc'
+tagline:          'We will find a way. We always have.'
+description:      'Study the past if you would define the future.'
 url:              http://hyper-cube.io
 baseurl:          /
 
@@ -38,4 +38,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/hyper-cube-io/hyper-cube-io
+  repo:           https://github.com/hyper-cube-io/hyper-cube.io
