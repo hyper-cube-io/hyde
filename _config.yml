@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            hyper-cube.io
-tagline:          'A Jekyll theme'
-description:      'desc'
+tagline:          'We will find a way. We always have.'
+description:      'Study the past if you would define the future.'
 url:              http://hyper-cube.io
 baseurl:          /
 
@@ -16,7 +16,6 @@ authors:
   jh:
     name: Jihoon Kim
     display_name: Jihoon
-    gravatar: 08c3aa66b58fccc84f072d8e9848e69b
     email: jh.kim@hyper-cube.io
     web: http://ium.me
     twitter: _super_fishz
@@ -32,6 +31,16 @@ authors:
     email: tkruddnjs1@naver.com
     web: http://kwSeo.github.io
     github: kwSeo
+  sy:
+    name: Soonyoung Kim
+    display_name: syKim
+    email: tnsdud3506@naver.com
+    github: rkdhs8
+  hw:
+    name: Hyewoon Na
+    display_name: hwNa
+    email: the7sunny@naver.com
+    github: the7sunny
 
 paginate:         5
 
@@ -39,4 +48,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/hyper-cube-io/hyper-cube-io
+  repo:           https://github.com/hyper-cube-io/hyper-cube.io
