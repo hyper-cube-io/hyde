@@ -20,6 +20,27 @@ authors:
     web: http://ium.me
     twitter: _super_fishz
     github: super-fishz
+  sh:
+    name: Seungsoo Han
+    display_name: Seungsoo
+    github: hanseungsoo
+    email: hss0417@gmail.com
+  kwSeo:
+    name: Kyeongwon Seo
+    display_name: kwSeo
+    email: tkruddnjs1@naver.com
+    web: http://kwSeo.github.io
+    github: kwSeo
+  sy:
+    name: Soonyoung Kim
+    display_name: syKim
+    email: tnsdud3506@naver.com
+    github: rkdhs8
+  hw:
+    name: Hyewoon Na
+    display_name: hwNa
+    email: the7sunny@naver.com
+    github: the7sunny
 
 paginate:         5
 
