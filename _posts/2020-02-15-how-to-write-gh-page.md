@@ -51,3 +51,4 @@ git push gh-pages
 ![pull request]({{site.url}}/public/posts_images/pull_request.png)
 이 과정은 내가 작업한 내용들이 실제 서비스에 반영해도 되는지 hyper-cube-io를 운영하는 권한 있는 사람들에게 승인을 받는다.
 
+승인 과정이 끝나면 몇 초후에 페이지에서 제대로 반영되는지 확인한다.
