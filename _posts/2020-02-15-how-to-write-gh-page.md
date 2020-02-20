@@ -49,6 +49,9 @@ git push gh-pages
 
 내 Repo에 내용들을 실제 hyper-cube-io에 반영하기 위해서는 Pull Request라는 고정을 거쳐야 한다.
 ![pull request]({{site.url}}/public/posts_images/pull_request.png)
+![create pull request]({{site.url}}/public/posts_images/create_pull_request.png)
+위 사진에서 보듯이 pull request를 생성할 때 base repository의branch와 head repository의branch를 gh-pages로 설정 해야 한다.
+아래에는 내 repository에서 원본 repository로 반영할 commit 목록이 보인다.
 이 과정은 내가 작업한 내용들이 실제 서비스에 반영해도 되는지 hyper-cube-io를 운영하는 권한 있는 사람들에게 승인을 받는다.
 
 승인 과정이 끝나면 몇 초후에 페이지에서 제대로 반영되는지 확인한다.
