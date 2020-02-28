@@ -42,7 +42,7 @@ git add public/posts_images/fork_to_repo.png
 git add public/posts_images/document_write.png
 
 git commit -m \"문서 작성법 업로드\"
-git push master
+git push 
 ```
 
 ## hyper-cube-io에 Pull Request하기
