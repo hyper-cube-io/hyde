@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Go로 간단히 웹서버 만들기
-author: kwseo
+author: kwSeo
 tags: [go, web]
 ---
 
