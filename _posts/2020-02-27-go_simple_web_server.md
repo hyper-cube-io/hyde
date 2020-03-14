@@ -1,11 +1,9 @@
 ---
 layout: post
 title: Go로 간단히 웹서버 만들기
-author: kwseo
+author: kwSeo
 tags: [go, web]
 ---
-
-# Go로 간단히 웹서버 만들기
 
 ## 개요
 요즘 Go 언어의 주가가 지속적으로 오르면서 Go 언어에 대해서 들어보지 못한 사람은 없을 것이다. 
